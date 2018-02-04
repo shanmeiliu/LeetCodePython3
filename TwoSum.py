@@ -1,6 +1,7 @@
 class Solution:
     def twoSum(self, nums, target):
         """
+        Approach #3 (One-pass Hash Table)
         :type nums: List[int]
         :type target: int
         :rtype: List[int]
